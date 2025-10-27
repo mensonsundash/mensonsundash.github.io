@@ -1,0 +1,11 @@
+.header nav ul > li{
+    list-style: none;
+    border: none;
+    border-radius: 50px;
+    background: #e66565;
+    object-fit: contain;
+}
+
+.header nav ul > li i{
+    padding-right: 10px;
+}
